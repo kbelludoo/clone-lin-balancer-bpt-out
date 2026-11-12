@@ -1,0 +1,9 @@
+This repository contains an original LIN/C11 experimental clone of a published
+scalar algorithm from Balancer V2 (balancer/balancer-v2-monorepo). The upstream
+Solidity is NOT vendored here.
+
+Upstream algorithm license: GPL-3.0-or-later.
+See https://github.com/balancer/balancer-v2-monorepo
+
+The LIN source and C11 oracle in this repository are provided for audit
+reproduction. Proofs live in https://github.com/kbelludoo/lin-open
